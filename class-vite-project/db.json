@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "alice",
+      "name": "undefined Updated"
+    },
+    {
+      "id": "2",
+      "username": "bob",
+      "name": "undefined Updated"
+    },
+    {
+      "id": "3",
+      "username": "charlie",
+      "name": "undefined Updated"
+    },
+    {
+      "id": "4",
+      "username": "varnika",
+      "name": "undefined Updated"
+    },
+    {
+      "name": "ni",
+      "id": "eZKRO6WJMnQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
